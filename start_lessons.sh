@@ -1,5 +1,5 @@
 #!/bin/bash
-
+source  /home/ethereyes/EtherEyes-Notebooks/kismet-env/bin/activate
 echo "Do you want to start Jupyter Notebook on localhost or eth0?"
 read -p "Enter your choice (localhost/eth0): " choice
 
