@@ -28,8 +28,9 @@ In this lesson, we'll explore the following topics:
 
 1. A brief introduction into Kismet Alerts
 2. How to query all alerts via a Kismet API running kismet on EtherEyes.
+
 	* Query the Kismet API for all alerts
-        * Convert JSON data to a pandas dataframe
-        * Filter for unique alert source MAC addresses
-        * Dump pcap data for each source mac alert
+	* Convert JSON data to a pandas dataframe
+	* Filter for unique alert source MAC addresses
+	* Dump pcap data for each source mac alert
 
